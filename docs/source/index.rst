@@ -13,5 +13,6 @@ Contents
 .. toctree::
 
    usage
-   api
+   reviews
+   websites
    software
