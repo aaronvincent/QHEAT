@@ -8,6 +8,7 @@ A list of useful review articles, sorted by area
 Cosmology
 ---------
 
+Planck 2018 `results. VI. Cosmological parameters <https://inspirehep.net/literature/1682902>`_
 
 .. _darkmatter:
 
