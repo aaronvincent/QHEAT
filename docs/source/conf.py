@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'QHEAT Docs'
+copyright = '2023, QHEAT Group'
+author = 'Aaron Vincent'
 
 release = '0.1'
 version = '0.1.0'
