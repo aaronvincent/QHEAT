@@ -8,7 +8,13 @@ A list of useful review articles, sorted by area
 Cosmology
 ---------
 
+
+
 `Planck 2018 results. VI: Cosmological parameters <https://inspirehep.net/literature/1682902>`_
+
+`Cosmological Perturbations <https://inspirehep.net/literature/1220222>`_ (Julien Lesgourgues)
+
+`CMB S4 Science book <https://inspirehep.net/literature/1490867>`_
 
 .. _darkmatter:
 
@@ -40,7 +46,19 @@ Dark Matter
 Neutrinos
 ---------
 
-.. _eft:
+`Neutrino Physics <https://inspirehep.net/literature/1614330>`_ (Pilar Hernandez)
 
-Effective field theory
-----------------------
+.. _stats:
+
+Statistics
+----------
+
+`Bayesian methods in cosmology <https://inspirehep.net/literature/1507974>`_ (Roberto Trotta)
+
+`Statistics and data analysis for physicists  <http://www-library.desy.de/preparch/books/vstatmp_engl.pdf>`_ (course notes by Gerhard Bohm & Günter Zech)
+
+
+.. .. _eft:
+
+.. Effective field theory
+.. ----------------------
