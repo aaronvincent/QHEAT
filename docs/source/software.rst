@@ -29,8 +29,8 @@ Neutrino propagation
 Cosmic rays
 -----------
 
-PROPOSAL 
-    I don't know where to find this software because of its ungooglable name.
+`PROPOSAL <https://github.com/tudo-astroparticlephysics/PROPOSAL>`_
+    PROPOSAL is a tool for propagating leptons and gamma rays through media.
 
 Cosmology
 ---------
