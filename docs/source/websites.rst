@@ -12,7 +12,7 @@ Useful websites for the aspiring astroparticlenaut
 
 
 `Cosmic ray database <https://lpsc.in2p3.fr/crdb/>`_
-    A usful database of cosmic ray data.
+    A useful database of cosmic ray data.
 
 `Paperscape <http://paperscape.org>`_
-    A map of the arxiv. Wonderful!
+    A map of the arXiv. Wonderful!
