@@ -39,7 +39,12 @@ Dark Matter
 .. `Banks et al.
 .. *Simulation of energy transport by dark matter scattering in stars* <https://inspirehep.net/literature/1968878>`_
 
+.. _qft:
 
+Particle physics and quantum field theory
+-----------------------------------------
+
+`TASI Lectures: (No) Global Symmetries to Axion Physics <https://inspirehep.net/literature/2652220>`_ (Matt Reece)
 
 .. _neutrinos:
 
