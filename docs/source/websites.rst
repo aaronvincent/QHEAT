@@ -64,3 +64,18 @@ Programming Help
 `Regex Learn <https://regexlearn.com/>`_
     Interactive tutorial that covers regular expressions (regex). Very useful
     to understand and make use of in commands like ``grep`` and ``sed``.
+
+
+Frontenac
+---------
+
+`Frontenac Wiki <https://cac.queensu.ca/wiki/index.php/Main_Page>`_
+    Good resource for questions regarding the Frontenac Cluster.
+
+`Frontenac Meter <https://cac.queensu.ca/frontenac-platform/frontenac-cluster-meter/>`_
+    Web-based GUI showing the CPU and RAM usage of each node on Frontenac, no
+    need to log in to Frontenac to see if it's busy currently.
+
+`SLURM Documentation <https://slurm.schedmd.com/documentation.html>`_
+    Extra info regarding Frontenac's job scheduler. You can look here for info
+    on the commands you can run through SLURM.
