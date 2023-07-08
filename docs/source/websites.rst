@@ -26,3 +26,12 @@ Physics
     `Astrophysical Constants <https://pdg.lbl.gov/2023/web/viewer.html?file=%2F2023/reviews/rpp2022-rev-astrophysical-constants.pdf>`_.
     In addition, their handbook can be ordered for free from
     `here <https://pdg.lbl.gov/2023/receive_our_products.html>`_.
+
+
+Writing Help
+------------
+
+`Detexify LaTeX Handwriting <http://detexify.kirelabs.org/classify.html>`_
+    Uses image recognition to guess what symbol you draw, and tell you both
+    what its LaTeX name is and which package needs to be loaded to use the
+    symbol.
