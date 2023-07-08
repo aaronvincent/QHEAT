@@ -35,3 +35,32 @@ Writing Help
     Uses image recognition to guess what symbol you draw, and tell you both
     what its LaTeX name is and which package needs to be loaded to use the
     symbol.
+
+
+Programming Help
+----------------
+
+`Learn X in Y Minutes <https://learnxinyminutes.com/>`_
+    where `X` is some programming language. Very helpful for quickly getting up
+    to speed with a new language. If you're here there's a good chance you're
+    learning `Fortran <https://learnxinyminutes.com/docs/fortran90/>`_, though
+    there are other useful entries like
+    `LaTeX <https://learnxinyminutes.com/docs/latex/>`_,
+    `Bash <https://learnxinyminutes.com/docs/bash/>`_,
+    `Git <https://learnxinyminutes.com/docs/git/>`_, and
+    `Make <https://learnxinyminutes.com/docs/make/>`_.
+
+`Explain Shell <https://explainshell.com/>`_
+    Copy and paste BASH shell lines here to get a command-by-command breakdown
+    of what each command and its arguments are doing.
+
+`Bash Cheatsheet <https://devhints.io/bash>`_
+    Useful for Bash scripting if you've forgotten some syntax.
+
+`Interactive Git Tutorial <https://learngitbranching.js.org/>`_
+    Gamified interactive tutorial from basic to advanced Git usage. By the end
+    you'll understand ``revert``, ``reset``, and ``cherry-pick``!
+
+`Regex Learn <https://regexlearn.com/>`_
+    Interactive tutorial that covers regular expressions (regex). Very useful
+    to understand and make use of in commands like ``grep`` and ``sed``.
