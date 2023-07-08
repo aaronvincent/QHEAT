@@ -13,6 +13,6 @@ Running MESA
 
 .. code-block:: bash
 
-   >> module force purge 
+   module force purge
 
 Before any attempt to compile or run MESA. This directive should also be included in your bash script when submitting a slurm job. 
