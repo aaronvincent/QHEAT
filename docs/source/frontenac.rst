@@ -31,3 +31,28 @@ shared directory found at:
 Here you can share files with the group without needing to
 `secure copy <https://man7.org/linux/man-pages/man1/scp.1.html>`_ (``scp``) the
 files to your computer and send it to someone else on the team.
+
+In addition, you can create a
+`symbolic link <https://en.wikipedia.org/wiki/Symbolic_link>`_ to our group
+directory to quickly ``cd`` into it from your home directory using the
+`link command <https://man7.org/linux/man-pages/man1/ln.1.html>`_ (``ln``):
+
+.. code-block:: bash
+
+   ln --symbolic /global/project/hpcg1719 ~/group-folder
+
+which creates a symbolic link to our group's shared folder called
+*group-folder* in your user home directory.
+This can be removed by using ``unlink`` or the regular ``rm`` command:
+
+.. code-block:: bash
+
+   unlink ~/group-folder
+
+.. code-block:: bash
+
+   rm ~/group-folder
+
+.. note::
+   There is no trailing forward slash, as we are removing the link, not the
+   directory it points at.
