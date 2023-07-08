@@ -56,3 +56,8 @@ This can be removed by using ``unlink`` or the regular ``rm`` command:
 .. note::
    There is no trailing forward slash, as we are removing the link, not the
    directory it points at.
+
+
+In the shared group directory there are a few test job scripts in
+``Documents/Tests``. You can run them to test your account's job submissions,
+or copy them and use them as a base for your own job scripts.
