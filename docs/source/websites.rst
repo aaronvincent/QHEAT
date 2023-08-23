@@ -36,6 +36,21 @@ Writing Help
     what its LaTeX name is and which package needs to be loaded to use the
     symbol.
 
+`Coblis <https://www.color-blindness.com/coblis-color-blindness-simulator/>`_
+    Colour Vision Deficiency (CVD) simulator Coblis. Upload a picture and see
+    what it looks like with CVD. Useful for testing your plots against various
+    types of CVD.
+
+`Choosing Colormaps in Matplotlib <https://matplotlib.org/stable/tutorials/colors/colormaps.html>`_
+    Matplotlib page regarding how to pick various continuous and discrete
+    colour maps. Useful for understanding which colour map suits your data
+    best.
+
+`Colormap reference <https://matplotlib.org/stable/gallery/color/colormap_reference.html>`_
+    Matplotlib page with all the built in colour maps in a sample image. You
+    can download the sample image and upload it to Coblis to see what each map
+    looks like in various CVDs.
+
 
 Programming Help
 ----------------
