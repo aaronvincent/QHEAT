@@ -14,6 +14,15 @@ Complaints should be directed at Aaron Vincent.
 
 `Joe's home page <https://www.queensu.ca/academia/bramante/>`_
 
+`Queen's Particle Astrophysics + QHEAT home page <https://www.queensu.ca/physics/research-groups/particle-astrophysics>`_
+
+   - `QHEAT Benty Fields Journal Club <https://www.benty-fields.com/manage_jc>`_
+
+`Queen's/RMC University Astronomy Research Group (QUARG) home page <https://www.queensu.ca/physics/quarg/>`_
+
+   - `QUARG Seminar Series <https://www.queensu.ca/physics/quarg/quarg-seminars>`_
+
+   - `QUARG Journals Club <https://www.queensu.ca/physics/quarg/quarg-journals-club>`_
 
 Contents
 --------
