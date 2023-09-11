@@ -14,6 +14,11 @@ Getting Started
 To start editing the group wiki, you'll need Python with **Sphinx** installed.
 This can be done through ``pip``, and involves installing the packages ``sphinx``
 and ``sphinx-rtd-theme``.
+You will also need ``sphinx-copybutton`` as well.
+
+Alternatively, you can get all Python dependences by using ::
+
+    pip install -r docs/requirements.txt
 
 The pages can be found in the ``/docs/source`` directory, with the homepage
 labeled ``index.rst``.
