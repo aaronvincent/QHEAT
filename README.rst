@@ -7,3 +7,25 @@ with some basic Sphinx docs.
 Read the tutorial here:
 
 https://docs.readthedocs.io/en/stable/tutorial/
+
+Getting Started
+---------------
+
+To start editing the group wiki, you'll need Python with `Sphinx` installed.
+This can be done through `Pip`, and involves installing the packages `sphinx`
+and `sphinx-rtd-theme`.
+
+The pages can be found in the `/docs/source` directory, with the homepage
+labeled `index.rst`.
+The existing pages can be edited in place to update them, and a new page can be
+created by creating a new `.rst` file alongside the others and adding the
+filename to the `.. toctree::` table of contents in `index.rst`.
+
+To build the website pages, simply `cd` into the `docs` directory and run
+`make html`.
+If you also want to build a LaTeX pdf version of the docs, run `make latexpdf`.
+The built files can be viewed in `/docs/build`.
+To view the website, you can just open `/docs/build/html/index.html` in a
+browser.
+You can keep this *local version* of the website open and simply refresh the
+page to see changes you make after re-building.
