@@ -8,9 +8,8 @@ Read the tutorial here:
 
 https://docs.readthedocs.io/en/stable/tutorial/
 
-You will also need `sphinx-copybutton` as well.
+You will also need ``sphinx-copybutton`` as well.
 
-Alternatively, you can get all Python dependences by using
+Alternatively, you can get all Python dependences by using ::
 
-.. code-block:: bash
    pip install -r docs/requirements.txt
