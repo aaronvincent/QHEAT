@@ -36,3 +36,12 @@ The Li Problem
 **************
 The mismatch between the observed abundance of lithium in comparison with
 predictions from `BBN <bbn_>`_.
+
+.. _uhe-events:
+
+Upgoing Ultra-High-Energy (UHE) Events
+*****************************************
+Detection of what seems like UHE neutrinos made by `ANITA <https://en.wikipedia.org/wiki/Antarctic_Impulsive_Transient_Antenna>`_
+coming up through the Earth out of the Antarctic ice sheet. Issue: the Earth
+should be nearly opaque to UHE neutrinos (as the cross section scales with the
+energy).
