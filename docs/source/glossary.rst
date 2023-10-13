@@ -8,7 +8,7 @@ Astrophysics
 
 :math:`M_{200}`
 ***************
-The mass of the galaxy enclosed in :math:`R_{200}` (R-200_).
+The mass of the galaxy enclosed in :math:`R_{200}` `R-200 <r-200_>`_.
 
 
 .. _r-200:
@@ -22,3 +22,26 @@ is 200 times the critical density of the universe.
 
 Particle Physics
 ----------------
+
+.. _bbn:
+
+Big Bang Nucleosynthesis
+************************
+The brief point in time in the early universe that fused helium and lithium from
+hydrogen.
+
+.. _li-problem:
+
+The Li Problem
+**************
+The mismatch between the observed abundance of lithium in comparison with
+predictions from `BBN <bbn_>`_.
+
+.. _uhe-events:
+
+Upgoing Ultra-High-Energy (UHE) Events
+*****************************************
+Detection of what seems like UHE neutrinos made by `ANITA <https://en.wikipedia.org/wiki/Antarctic_Impulsive_Transient_Antenna>`_
+coming up through the Earth out of the Antarctic ice sheet. Issue: the Earth
+should be nearly opaque to UHE neutrinos (as the cross section scales with the
+energy).
