@@ -53,3 +53,11 @@ False Vacuum
 A field is in a local minimum of its potential, which is *not* the *global*
 minimum of the potential (i.e. a *false* vacuum). As a result, there is potential energy that can be
 released should the field move to the *true* vacuum.
+
+.. _nu-matter-effect:
+
+Neutrino Matter Effect
+**********************
+An extra interaction an incoming neutrino can have with the corresponding
+flavour leptons in matter. Our matter is mostly composed of electrons, so
+electron flavour neutrinos experience an extra component to oscillation.
