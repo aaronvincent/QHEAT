@@ -61,3 +61,12 @@ Neutrino Matter Effect
 An extra interaction an incoming neutrino can have with the corresponding
 flavour leptons in matter. Our matter is mostly composed of electrons, so
 electron flavour neutrinos experience an extra component to oscillation.
+
+.. _scotogenic-dm:
+
+Scotogenic Dark Matter
+**********************
+Dark matter that can have a loop interaction with some new dark particle. The
+notable feature is that the dark matter is transformed into a right-handed
+neutrino inside this loop. These models can then explain the origin of neutrino
+masses.
