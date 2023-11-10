@@ -45,3 +45,11 @@ Detection of what seems like UHE neutrinos made by `ANITA <https://en.wikipedia.
 coming up through the Earth out of the Antarctic ice sheet. Issue: the Earth
 should be nearly opaque to UHE neutrinos (as the cross section scales with the
 energy).
+
+.. _false-vacuum:
+
+False Vacuum
+************
+A field is in a local minimum of its potential, which is *not* the *global*
+minimum of the potential (i.e. a *false* vacuum). As a result, there is potential energy that can be
+released should the field move to the *true* vacuum.
