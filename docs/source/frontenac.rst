@@ -61,3 +61,18 @@ This can be removed by using ``unlink`` or the regular ``rm`` command:
 In the shared group directory there are a few test job scripts in
 ``Documents/Tests``. You can run them to test your account's job submissions,
 or copy them and use them as a base for your own job scripts.
+
+Compilers
+---------
+
+Fortran
+*******
+
+For Fortran you'll typically use the GNU compiler `gfortran`, which can be found
+in the `StdEnv` module (loaded by default). If you want to use the *Intel*
+Fortran compiler you have to load the legacy (Frontenac doesn't have modern
+licences for `ifort`) module `ics`.
+
+.. code:: bash
+
+   module load ics
