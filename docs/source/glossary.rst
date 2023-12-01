@@ -38,6 +38,23 @@ Synchrotron self-Compton
 Electrons in a magnetic field emit synchrotron radiation, which then Compton
 scatters off of the electrons, up-scattering to gamma-rays.
 
+.. _milky-way-analogue:
+
+Milky Way Analogue
+******************
+
+A galaxy with properties similar to our own. Used to understand our galaxy by
+looking at similar ones that appear when performing simulations of the Universe.
+
+.. _zoom-in-sim:
+
+Zoom-In Simulation
+******************
+
+A cosmological simulation on Hubble scale. To get a better resolved simulation
+of individual galaxies in this context, you re-run a small element taking note
+of in-flow and out-flow from the larger scale simulation. This is done in post.
+
 
 Particle Physics
 ----------------
