@@ -64,6 +64,13 @@ Big Bang Nucleosynthesis
 The brief point in time in the early universe that fused helium and lithium from
 hydrogen.
 
+.. _bogoliubov:
+
+Bogoliubov Transformation
+*************************
+Observers in different reference frames will not agree on the vacuum state. The
+transformation between theses observers is the Bogoliubov transformation.
+
 .. _false-vacuum:
 
 False Vacuum
