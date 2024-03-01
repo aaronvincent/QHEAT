@@ -23,6 +23,14 @@ Milky Way Analogue
 A galaxy with properties similar to our own. Used to understand our galaxy by
 looking at similar ones that appear when performing simulations of the Universe.
 
+.. _pta:
+
+Pulsar Timing Array
+*******************
+Measurements of the changing time delay of multiple pulsars. One can look for
+gravitational waves by looking for correlations between the the position of the
+pulsars in the sky with their differing time delays.
+
 .. _quazar:
 
 Quazar
