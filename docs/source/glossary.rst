@@ -65,6 +65,17 @@ of in-flow and out-flow from the larger scale simulation. This is done in post.
 Particle Physics
 ----------------
 
+.. _bao:
+
+Baryon Acoustic Oscillation (BAO)
+*********************************
+In the early universe, matter is drawn into over-densities by gravity, but only
+baryons (and not dark matter) experience a pressure that causes them to rebound
+outward and undergo oscillations. These propagate at the sound speed of the
+medium. Galaxies are more likely to form where these oscillations stopped,
+and we observe this as a spatial correlation of the position of galaxies in the
+current universe.
+
 .. _bbn:
 
 Big Bang Nucleosynthesis
