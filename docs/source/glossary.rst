@@ -94,6 +94,16 @@ The Li Problem
 The mismatch between the observed abundance of lithium in comparison with
 predictions from `BBN <bbn_>`_.
 
+.. _nu-hierarchy:
+
+Neutrino Hierarchy
+******************
+Neutrinos are known to have a non-zero mass, and we have measured the magnitude
+of two mass splittings through atmospheric and solar neutrino measurements.
+Depending on the sign of the splitting, we either have *normal* ordering with
+one heavy state and two lighter states or *inverted* ordering with two heavier
+states and one light state.
+
 .. _nu-matter-effect:
 
 Neutrino Matter Effect
