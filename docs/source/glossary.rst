@@ -98,6 +98,13 @@ A field is in a local minimum of its potential, which is *not* the *global*
 minimum of the potential (i.e. a *false* vacuum). As a result, there is potential energy that can be
 released should the field move to the *true* vacuum.
 
+.. _inelastic-dm:
+
+Inelastic Dark Matter
+*********************
+Dark matter models that have two particles (or states) that have different
+masses, with a mass splitting defined as their difference.
+
 .. _li-problem:
 
 The Li Problem
