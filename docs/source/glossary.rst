@@ -105,6 +105,13 @@ Inelastic Dark Matter
 Dark matter models that have two particles (or states) that have different
 masses, with a mass splitting defined as their difference.
 
+.. _kination:
+
+Kination
+********
+The period in which a scalar field's potential is negligible and its kinetic
+energy dominates the universe. The field is said to be kinating in this period.
+
 .. _li-problem:
 
 The Li Problem
