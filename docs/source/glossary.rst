@@ -1,6 +1,8 @@
 Glossary of Terms
 =================
 
+A crowdsourced glossary of terms that have come up during journal club discussions. 
+
 Astrophysics
 ------------
 
@@ -8,7 +10,7 @@ Astrophysics
 
 Blazar
 ******
-A `Quazar <quazar_>`_ that has its relativistic jet pointed straight at us.
+A `Quasar <quasar_>`_ that has its relativistic jet pointed straight at us.
 
 .. _m-200:
 
@@ -31,9 +33,9 @@ Measurements of the changing time delay of multiple pulsars. One can look for
 gravitational waves by looking for correlations between the the position of the
 pulsars in the sky with their differing time delays.
 
-.. _quazar:
+.. _quasar:
 
-Quazar
+Quasar
 ******
 A supermassive black hole in the centre of a distant galaxy. The accreting
 material heats up and is seen as a point source in radio. Its name comes from
@@ -57,9 +59,9 @@ scatters off of the electrons, up-scattering to gamma-rays.
 
 Zoom-In Simulation
 ******************
-A cosmological simulation on Hubble scale. To get a better resolved simulation
+A cosmological simulation on galactic scales. To get a better resolved simulation
 of individual galaxies in this context, you re-run a small element taking note
-of in-flow and out-flow from the larger scale simulation. This is done in post.
+of in-flow and out-flow from the larger scale simulation.
 
 
 Particle Physics
