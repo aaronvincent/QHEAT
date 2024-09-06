@@ -1,4 +1,7 @@
-# Defining the exact version will make sure things don't break
+# Requirements for building the website.
+# Defining the exact version will make sure things don't break with an
+# automatic update.
+
 sphinx==7.2.5
 sphinx_rtd_theme==1.3.0
 sphinx-copybutton==0.5.2
