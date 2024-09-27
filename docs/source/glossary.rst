@@ -25,6 +25,15 @@ Milky Way Analogue
 A galaxy with properties similar to our own. Used to understand our galaxy by
 looking at similar ones that appear when performing simulations of the Universe.
 
+.. _navarro-frenk-white-profile:
+
+Navarro-Frenk-White Profile
+***************************
+A mathematical description of the density as a function of radius of dark matter
+halos. Coming from fits to simulations without baryons. The structure of the
+universe was observed to be self-similar in these simulations with different
+size scale NFW profile halos.
+
 .. _pta:
 
 Pulsar Timing Array
@@ -121,6 +130,20 @@ The Li Problem
 The mismatch between the observed abundance of lithium in comparison with
 predictions from `BBN <bbn_>`_.
 
+.. _majoron:
+
+Majoron
+*******
+A hypothetical Nambu-Goldstone boson that can explain neutrino masses through
+the introduction of a Majorana mass term for the neutrino, negating the need for
+right-handed neutrinos.
+
+.. nambu-goldstone-boson:
+
+Nambu-Goldstone Boson
+*********************
+The boson that appears when a symmetry is spontaneously broken.
+
 .. _nu-hierarchy:
 
 Neutrino Hierarchy
@@ -147,6 +170,15 @@ Dark matter that can have a loop interaction with some new dark particle. The
 notable feature is that the dark matter is transformed into a right-handed
 neutrino inside this loop. These models can then explain the origin of neutrino
 masses.
+
+.. _transition-edge-sensor:
+
+Transition Edge Sensor
+**********************
+A TES is a superconductor that is held at a temperature just inside the superconducting
+range, such that any small quantity of energy deposition will raise it into the
+non-superconducting region. This can be read as a significant increase in the
+resistance.
 
 .. _uhe-events:
 
