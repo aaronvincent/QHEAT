@@ -130,6 +130,20 @@ The Li Problem
 The mismatch between the observed abundance of lithium in comparison with
 predictions from `BBN <bbn_>`_.
 
+.. _majoron:
+
+Majoron
+*******
+A hypothetical Nambu-Goldstone boson that can explain neutrino masses through
+the introduction of a Majorana mass term for the neutrino, negating the need for
+right-handed neutrinos.
+
+.. nambu-goldstone-boson:
+
+Nambu-Goldstone Boson
+*********************
+The boson that appears when a symmetry is spontaneously broken.
+
 .. _nu-hierarchy:
 
 Neutrino Hierarchy
