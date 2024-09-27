@@ -1,0 +1,7 @@
+# Requirements for building the website.
+# Defining the exact version will make sure things don't break with an
+# automatic update.
+
+sphinx==7.4.7
+sphinx-rtd-theme==2.0.0
+sphinx-copybutton==0.5.2

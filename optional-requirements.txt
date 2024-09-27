@@ -1,0 +1,4 @@
+# Optional requirements, not needed to build the website.
+
+# The Esbonio VSCode extension needs this for creating window previews.
+esbonio == 0.16.4  

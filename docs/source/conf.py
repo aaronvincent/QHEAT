@@ -3,7 +3,7 @@
 # -- Project information
 
 project = 'QHEAT Docs'
-copyright = '2023, QHEAT Group'
+copyright = '2024, QHEAT Group'
 author = 'Aaron Vincent'
 
 release = '0.1'
