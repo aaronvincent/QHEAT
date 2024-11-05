@@ -52,3 +52,17 @@ ArXiV also features the ability to be subscribed as an RSS feed. To do so,
 subscribe to `<https://rss.arxiv.org/rss/hep-ph>`_ as the RSS feed URL for
 *hep-ph* submissions.
 See `this help page <https://info.arxiv.org/help/rss.html>`_ for more info.
+
+.. _auth-id:
+
+Author Identifiers
+******************
+ArXiV also has the functionality to create an
+`author identifier <https://info.arxiv.org/help/author_identifiers.html>`_ page
+summarizing your ArXiV submissions.
+Once you enable yours, the page `<https://arxiv.org/a/lastname_first_n>`_ is
+created, where the complete last name and first name's initial are printed in
+ASCII and Identifiers are indexed starting at `n=1`.
+
+This can then be subscribed to as an ATOM feed by adding `.atom2` to the end of
+the Author identifier: `<https://arxiv.org/a/lastname_first_n.atom2>`_.
