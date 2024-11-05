@@ -16,3 +16,29 @@ To stay up-to-date, you can browse the daily new submissions in the
 `ArXiV preprint server <https://arxiv.org>`_. We typically browse the High
 Energy Physics - Phenomenology (`hep-ph <https://arxiv.org/archive/hep-ph>`_)
 section, so that is a good place to start.
+
+.. _subscribe-arxiv:
+
+Subscribing to ArXiV
+********************
+If you prefer, you can have the new ArXiV submissions emailed to you
+automatically instead of visiting the server
+`as explained here <https://info.arxiv.org/help/subscribe.html>`_. If you want
+to just quickly subscribe to *hep-ph*, then simply send an email from the email
+account you want to receive the daily submissions, adding your name:
+
+.. code-block:: text
+
+	To: physics@arxiv.org
+	Subject: subscribe John Smith
+
+	add High Energy Physics - Phenomenology
+
+And to unsubscribe:
+
+.. code-block:: text
+
+	To: physics@arxiv.org
+	Subject: subscribe John Smith
+
+	del High Energy Physics - Phenomenology
