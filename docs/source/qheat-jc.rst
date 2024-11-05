@@ -42,3 +42,13 @@ And to unsubscribe:
 	Subject: subscribe John Smith
 
 	del High Energy Physics - Phenomenology
+
+.. _rss-arxiv:
+
+ArXiV RSS Feed
+**************
+
+ArXiV also features the ability to be subscribed as an RSS feed. To do so,
+subscribe to `<https://rss.arxiv.org/rss/hep-ph>`_ as the RSS feed URL for
+*hep-ph* submissions.
+See `this help page <https://info.arxiv.org/help/rss.html>`_ for more info.
