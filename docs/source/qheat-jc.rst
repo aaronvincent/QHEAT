@@ -13,15 +13,15 @@ tab, or searching for specific papers under the **Benty-search** tab.
 Finding Papers
 --------------
 To stay up-to-date, you can browse the daily new submissions in the
-`ArXiV preprint server <https://arxiv.org>`_. We typically browse the High
+`arXiv preprint server <https://arxiv.org>`_. We typically browse the High
 Energy Physics - Phenomenology (`hep-ph <https://arxiv.org/archive/hep-ph>`_)
 section, so that is a good place to start.
 
 .. _subscribe-arxiv:
 
-Subscribing to ArXiV
+Subscribing to arXiv
 ********************
-If you prefer, you can have the new ArXiV submissions emailed to you
+If you prefer, you can have the new arXiv submissions emailed to you
 automatically instead of visiting the server
 `as explained here <https://info.arxiv.org/help/subscribe.html>`_. If you want
 to just quickly subscribe to *hep-ph*, then simply send an email from the email
@@ -45,10 +45,10 @@ And to unsubscribe:
 
 .. _rss-arxiv:
 
-ArXiV RSS Feed
+arXiv RSS Feed
 **************
 
-ArXiV also features the ability to be subscribed as an RSS feed. To do so,
+arXiv also features the ability to be subscribed as an RSS feed. To do so,
 subscribe to `<https://rss.arxiv.org/rss/hep-ph>`_ as the RSS feed URL for
 *hep-ph* submissions.
 See `this help page <https://info.arxiv.org/help/rss.html>`_ for more info.
@@ -57,9 +57,9 @@ See `this help page <https://info.arxiv.org/help/rss.html>`_ for more info.
 
 Author Identifiers
 ******************
-ArXiV also has the functionality to create an
+arXiv also has the functionality to create an
 `author identifier <https://info.arxiv.org/help/author_identifiers.html>`_ page
-summarizing your ArXiV submissions.
+summarizing your arXiv submissions.
 Once you enable yours, the page `<https://arxiv.org/a/lastname_first_n>`_ is
 created, where the complete last name and first name's initial are printed in
 ASCII and Identifiers are indexed starting at `n=1`.
