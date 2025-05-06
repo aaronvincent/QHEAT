@@ -28,6 +28,11 @@ Physics
     `here <https://pdg.lbl.gov/2023/receive_our_products.html>`_.
 
 
+`Loopedia <https://loopedia.mpp.mpg.de/>`_
+    This is a repository of different QFT loops that can be searched for
+    existing calculations. The loops are sorted by their graph, see
+    [`arXiv:1709.01266 <https://arxiv.org/abs/1709.01266>`_] for details.
+
 Writing Help
 ------------
 
