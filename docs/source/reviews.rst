@@ -50,7 +50,7 @@ Particle physics and quantum field theory
 
 `What is the hierarchy problem? <https://inspirehep.net/literature/2917237>`_ (Michael Peskin)
 
-`Introduction to Thermal Field Theory: From First Principles to Applications<https://inspirehep.net/literature/2845542>`_ (Alberto Salvio)
+`Introduction to Thermal Field Theory: From First Principles to Applications <https://inspirehep.net/literature/2845542>`_ (Alberto Salvio)
 
 
 .. _neutrinos:
