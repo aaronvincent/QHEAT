@@ -44,7 +44,14 @@ Dark Matter
 Particle physics and quantum field theory
 -----------------------------------------
 
+`TASI Lectures on the Strong CP Problem and Axions <https://inspirehep.net/literature/1707528>`_ (Anson Hook)
+
 `TASI Lectures: (No) Global Symmetries to Axion Physics <https://inspirehep.net/literature/2652220>`_ (Matt Reece)
+
+`What is the hierarchy problem? <https://inspirehep.net/literature/2917237>`_ (Michael Peskin)
+
+`Introduction to Thermal Field Theory: From First Principles to Applications<https://inspirehep.net/literature/2845542>`_ (Alberto Salvio)
+
 
 .. _neutrinos:
 
