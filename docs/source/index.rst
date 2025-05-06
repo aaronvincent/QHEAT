@@ -29,6 +29,7 @@ Contents
 
 .. toctree::
 
+   qheat-jc
    reviews
    websites
    software
