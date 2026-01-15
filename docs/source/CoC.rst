@@ -8,7 +8,7 @@ This code of conduct has been adapted from the `GAMBIT <http://www.gambitbsm.org
 We expect all members of our the QHEAT group  a fundamentally collaborative attitude. Some key aspects of this are:
 
 * Be supportive: Encourage and engage with the work of colleagues, and be generous in offering help.
-* Be inclusive: Welcome and encourage contributions from everyonef. Be mindful of unhealthy social dynamics, and of biases at the individual level and group level that hinder inclusiveness. The latter may include e.g. bias due to race, sex, sexual orientation, gender identity or religious beliefs.
+* Be inclusive: Welcome and encourage contributions from everyone. Be mindful of unhealthy social dynamics, and of biases at the individual level and group level that hinder inclusiveness. The latter may include e.g. bias due to race, sex, sexual orientation, gender identity or religious beliefs.
 * Be considerate: Do not hold colleagues to unrealistic expectations, and show respect for their time and availability. Keep in mind that biases and discrimination, both conscious and subconscious, can negatively impact a colleague's work capacity. Pay attention to the well-being of your colleagues.
 * Be pragmatic and willing to compromise.
 * Display a healthy tolerance to criticism and to the opinions and values of others. Give others a fair chance to voice their opinion.
