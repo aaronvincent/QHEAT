@@ -36,3 +36,4 @@ Contents
    frontenac
    writing
    glossary
+   CoC
