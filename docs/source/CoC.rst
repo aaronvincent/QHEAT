@@ -1,7 +1,7 @@
 Code of Conduct
 ===============
 
-Members of the QHEAT group are expected to adhere to the following code of conduct in interactions within the group, the department, and the wider scientific community.
+Members of the QHEAT group are expected to adhere to the following code of conduct in interactions within the group, the department, and the wider scientific community, as well as the `McDonald Institute <hhttps://mcdonaldinstitute.ca/mcdonald-institute-code-of-conduct/>`_  code of conduct (which is very similar)
 
 This code of conduct has been adapted from the `GAMBIT <http://www.gambitbsm.org>`_ community CoC. 
 
